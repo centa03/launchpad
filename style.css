@@ -1,0 +1,89 @@
+html {
+    font-size: 22px;
+    font-family: "Kosugi Maru";
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    margin: 0;
+    background-color: #102027;
+}
+h1 {
+    font-size: 40px;
+    color: #8e24aa;
+    text-align: center;
+    padding-bottom: 0;
+}
+.date {
+    text-align: center;
+    color: #8e24aa;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.time {
+    text-align: center;
+    padding-bottom: 25px;
+    color: #8e24aa;
+}
+.search {
+    padding: 4px;
+    margin: 0 auto;
+    width: 400px;
+    padding: 10px;
+    background: #37474f;
+    border-radius: 30px;
+}
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    width: 100%;
+    color: #718792;
+    font-size: 20px;
+}
+nav {
+    text-align: center;
+    margin: 0 auto;
+    display: inline-flex;
+    flex-direction: column;
+    width: 220px;
+}
+p.work {
+    color: #e53935;
+    text-align: center;
+    margin: 10px;
+}
+p.keebs {
+    color: #1e88e5;
+    text-align: center;
+    margin: 10px;
+}
+p.media {
+    color: #43a047;
+    text-align: center;
+    margin: 10px;
+}
+p.teams {
+    color: #a17cd6;
+    text-align: center;
+    margin: 10px; 
+}
+p.tabs {
+    color: #1e88e5;
+    text-align: center;
+    margin: 10px;
+}
+a {
+    color: #62727b;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+    color: #c158dc;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
